@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd-poc",
+  "version": "1.0.0",
+  "description": "This is a POC for running a CI/CD pipeline with GH actions",
+  "main": "index.js",
+  "repository": "https://github.com/zprobst/ci-cd-poc",
+  "author": "Zach Probst ",
+  "license": "MIT"
+}
